@@ -16,8 +16,9 @@ Here are some of My Brief Details:
 - 📫 How to reach me: devadarshanbhadra@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
+
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devadarshanbhadra&show_icons=true&locale=en&layout=compact" alt="devadarshanbhadra" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devadarshanbhadra&show_icons=true&locale=en" alt="devadarshanbhadra" /></p>
