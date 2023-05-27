@@ -6,7 +6,7 @@
 -->
 **devadarshanbhadra/devadarshanbhadra** ✨ _special_ ✨ repository of My GitHub profile.
 
-Here are some ideas to get you started:
+Here are some of My Brief Details:
 
 - 🔭 I’m currently working on Bim modeller
 - 🌱 I’m currently learning BI Tools, Power BI, Data Analysis.
