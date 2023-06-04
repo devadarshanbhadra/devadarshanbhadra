@@ -8,7 +8,7 @@
 
 Here are some of My Brief Details:
 
-- 🔭 I’m currently working on Bim modeller
+- 🔭 I’m currently working as Bim modeller
 - 🌱 I’m currently learning BI Tools, Power BI, Data Analysis.
 - 👯 I’m looking to collaborate on Data Science
 - 🤔 I’m looking for help with Projects on Machine Learning, Data Analysis.
